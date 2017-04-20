@@ -1,162 +1,162 @@
 <svg height="2542" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2542" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 15:09:44 +0000   459092 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 15:09:44 +0000      232 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 15:09:44 +0000     3227 bytes  CODE_OF_CONDUCT.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 15:09:44 +0000     4303 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 15:09:44 +0000     4343 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 15:09:44 +0000      688 bytes  __tests__/components/Artboard.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 15:09:44 +0000     3677 bytes  __tests__/components/Image.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 15:09:44 +0000      420 bytes  __tests__/components/RedBox.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 15:09:44 +0000      610 bytes  __tests__/components/Text.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 15:09:44 +0000      610 bytes  __tests__/components/View.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 15:09:44 +0000      352 bytes  __tests__/components/__snapshots__/Artboard.js.s\</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 15:10:49 +0000   459092 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 15:10:49 +0000      232 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 15:10:49 +0000     3227 bytes  CODE_OF_CONDUCT.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 15:10:49 +0000     4303 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 15:10:49 +0000     4343 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 15:10:49 +0000      688 bytes  __tests__/components/Artboard.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 15:10:49 +0000     3677 bytes  __tests__/components/Image.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 15:10:49 +0000      420 bytes  __tests__/components/RedBox.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 15:10:49 +0000      610 bytes  __tests__/components/Text.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 15:10:49 +0000      610 bytes  __tests__/components/View.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 15:10:49 +0000      352 bytes  __tests__/components/__snapshots__/Artboard.js.s\</tspan>
 <tspan x="10" y="202">nap</tspan>
-<tspan x="10" y="218"> 11.  2017-04-20 15:09:44 +0000     3149 bytes  __tests__/components/__snapshots__/Image.js.snap</tspan>
-<tspan x="10" y="234"> 12.  2017-04-20 15:09:44 +0000     2606 bytes  __tests__/components/__snapshots__/RedBox.js.sna\</tspan>
+<tspan x="10" y="218"> 11.  2017-04-20 15:10:49 +0000     3149 bytes  __tests__/components/__snapshots__/Image.js.snap</tspan>
+<tspan x="10" y="234"> 12.  2017-04-20 15:10:49 +0000     2606 bytes  __tests__/components/__snapshots__/RedBox.js.sna\</tspan>
 <tspan x="10" y="250">p</tspan>
-<tspan x="10" y="266"> 13.  2017-04-20 15:09:44 +0000      292 bytes  __tests__/components/__snapshots__/Text.js.snap</tspan>
-<tspan x="10" y="282"> 14.  2017-04-20 15:09:44 +0000      292 bytes  __tests__/components/__snapshots__/View.js.snap</tspan>
-<tspan x="10" y="298"> 15.  2017-04-20 15:09:44 +0000     1090 bytes  __tests__/index.js</tspan>
-<tspan x="10" y="314"> 16.  2017-04-20 15:09:44 +0000      428 bytes  __tests__/jsonUtils/hacksForJSONImpl.js</tspan>
-<tspan x="10" y="330"> 17.  2017-04-20 15:09:44 +0000      401 bytes  __tests__/jsonUtils/layerGroup.js</tspan>
-<tspan x="10" y="346"> 18.  2017-04-20 15:09:44 +0000     2674 bytes  __tests__/jsonUtils/models.js</tspan>
-<tspan x="10" y="362"> 19.  2017-04-20 15:09:44 +0000     1715 bytes  __tests__/jsonUtils/shapeLayers.js</tspan>
-<tspan x="10" y="378"> 20.  2017-04-20 15:09:44 +0000     1505 bytes  __tests__/jsonUtils/style.js</tspan>
-<tspan x="10" y="394"> 21.  2017-04-20 15:09:44 +0000       28 bytes  __tests__/jsonUtils/textLayers.js</tspan>
-<tspan x="10" y="410"> 22.  2017-04-20 15:09:44 +0000     5129 bytes  __tests__/sharedStyles/TextStyles.js</tspan>
-<tspan x="10" y="426"> 23.  2017-04-20 15:09:44 +0000      297 bytes  __tests__/utils/sortObjectKeys.js</tspan>
-<tspan x="10" y="442"> 24.  2017-04-20 15:09:44 +0000      439 bytes  book.json</tspan>
-<tspan x="10" y="458"> 25.  2017-04-20 15:09:44 +0000      214 bytes  circle.yml</tspan>
-<tspan x="10" y="474"> 26.  2017-04-20 15:09:44 +0000      352 bytes  flow-typed/fbjs.js</tspan>
-<tspan x="10" y="490"> 27.  2017-04-20 15:09:44 +0000     1820 bytes  flow-typed/sketch.js</tspan>
-<tspan x="10" y="506"> 28.  2017-04-20 15:09:44 +0000      218 bytes  lib/Platform.js</tspan>
-<tspan x="10" y="522"> 29.  2017-04-20 15:09:44 +0000      117 bytes  lib/Platform.js.flow</tspan>
-<tspan x="10" y="538"> 30.  2017-04-20 15:09:44 +0000     2937 bytes  lib/buildTree.js</tspan>
-<tspan x="10" y="554"> 31.  2017-04-20 15:09:44 +0000     2036 bytes  lib/buildTree.js.flow</tspan>
-<tspan x="10" y="570"> 32.  2017-04-20 15:09:44 +0000     3087 bytes  lib/components/Artboard.js</tspan>
-<tspan x="10" y="586"> 33.  2017-04-20 15:09:44 +0000      672 bytes  lib/components/Artboard.js.flow</tspan>
-<tspan x="10" y="602"> 34.  2017-04-20 15:09:44 +0000     4439 bytes  lib/components/Image.js</tspan>
-<tspan x="10" y="618"> 35.  2017-04-20 15:09:44 +0000     2083 bytes  lib/components/Image.js.flow</tspan>
-<tspan x="10" y="634"> 36.  2017-04-20 15:09:44 +0000     4356 bytes  lib/components/RedBox.js</tspan>
-<tspan x="10" y="650"> 37.  2017-04-20 15:09:44 +0000     2076 bytes  lib/components/RedBox.js.flow</tspan>
-<tspan x="10" y="666"> 38.  2017-04-20 15:09:44 +0000     3283 bytes  lib/components/Text.js</tspan>
-<tspan x="10" y="682"> 39.  2017-04-20 15:09:44 +0000      814 bytes  lib/components/Text.js.flow</tspan>
-<tspan x="10" y="698"> 40.  2017-04-20 15:09:44 +0000       35 bytes  lib/components/TextStylePropTypes.js</tspan>
-<tspan x="10" y="714"> 41.  2017-04-20 15:09:44 +0000       21 bytes  lib/components/TextStylePropTypes.js.flow</tspan>
-<tspan x="10" y="730"> 42.  2017-04-20 15:09:44 +0000     3035 bytes  lib/components/View.js</tspan>
-<tspan x="10" y="746"> 43.  2017-04-20 15:09:44 +0000      648 bytes  lib/components/View.js.flow</tspan>
-<tspan x="10" y="762"> 44.  2017-04-20 15:09:44 +0000       35 bytes  lib/components/ViewStylePropTypes.js</tspan>
-<tspan x="10" y="778"> 45.  2017-04-20 15:09:44 +0000       21 bytes  lib/components/ViewStylePropTypes.js.flow</tspan>
-<tspan x="10" y="794"> 46.  2017-04-20 15:09:44 +0000     1400 bytes  lib/debug.js</tspan>
-<tspan x="10" y="810"> 47.  2017-04-20 15:09:44 +0000     1318 bytes  lib/debug.js.flow</tspan>
-<tspan x="10" y="826"> 48.  2017-04-20 15:09:44 +0000     1708 bytes  lib/flexToSketchJSON.js</tspan>
-<tspan x="10" y="842"> 49.  2017-04-20 15:09:44 +0000      815 bytes  lib/flexToSketchJSON.js.flow</tspan>
-<tspan x="10" y="858"> 50.  2017-04-20 15:09:44 +0000     1246 bytes  lib/index.js</tspan>
-<tspan x="10" y="874"> 51.  2017-04-20 15:09:44 +0000      527 bytes  lib/index.js.flow</tspan>
-<tspan x="10" y="890"> 52.  2017-04-20 15:09:44 +0000     4105 bytes  lib/jsonUtils/hacksForJSONImpl.js</tspan>
-<tspan x="10" y="906"> 53.  2017-04-20 15:09:44 +0000     3656 bytes  lib/jsonUtils/hacksForJSONImpl.js.flow</tspan>
-<tspan x="10" y="922"> 54.  2017-04-20 15:09:44 +0000      918 bytes  lib/jsonUtils/layerGroup.js</tspan>
-<tspan x="10" y="938"> 55.  2017-04-20 15:09:44 +0000      787 bytes  lib/jsonUtils/layerGroup.js.flow</tspan>
-<tspan x="10" y="954"> 56.  2017-04-20 15:09:44 +0000     2819 bytes  lib/jsonUtils/models.js</tspan>
-<tspan x="10" y="970"> 57.  2017-04-20 15:09:44 +0000     2196 bytes  lib/jsonUtils/models.js.flow</tspan>
-<tspan x="10" y="986"> 58.  2017-04-20 15:09:44 +0000     5298 bytes  lib/jsonUtils/shapeLayers.js</tspan>
-<tspan x="10" y="1002"> 59.  2017-04-20 15:09:44 +0000     3932 bytes  lib/jsonUtils/shapeLayers.js.flow</tspan>
-<tspan x="10" y="1018"> 60.  2017-04-20 15:09:44 +0000     3061 bytes  lib/jsonUtils/style.js</tspan>
-<tspan x="10" y="1034"> 61.  2017-04-20 15:09:44 +0000     2823 bytes  lib/jsonUtils/style.js.flow</tspan>
-<tspan x="10" y="1050"> 62.  2017-04-20 15:09:44 +0000     1103 bytes  lib/jsonUtils/textLayers.js</tspan>
-<tspan x="10" y="1066"> 63.  2017-04-20 15:09:44 +0000      981 bytes  lib/jsonUtils/textLayers.js.flow</tspan>
-<tspan x="10" y="1082"> 64.  2017-04-20 15:09:44 +0000     1897 bytes  lib/render.js</tspan>
-<tspan x="10" y="1098"> 65.  2017-04-20 15:09:44 +0000     1283 bytes  lib/render.js.flow</tspan>
-<tspan x="10" y="1114"> 66.  2017-04-20 15:09:44 +0000     3006 bytes  lib/renderers/ArtboardRenderer.js</tspan>
-<tspan x="10" y="1130"> 67.  2017-04-20 15:09:44 +0000     1110 bytes  lib/renderers/ArtboardRenderer.js.flow</tspan>
-<tspan x="10" y="1146"> 68.  2017-04-20 15:09:44 +0000    10243 bytes  lib/renderers/ImageRenderer.js</tspan>
-<tspan x="10" y="1162"> 69.  2017-04-20 15:09:44 +0000     6428 bytes  lib/renderers/ImageRenderer.js.flow</tspan>
-<tspan x="10" y="1178"> 70.  2017-04-20 15:09:44 +0000     2558 bytes  lib/renderers/SketchRenderer.js</tspan>
-<tspan x="10" y="1194"> 71.  2017-04-20 15:09:44 +0000     1292 bytes  lib/renderers/SketchRenderer.js.flow</tspan>
-<tspan x="10" y="1210"> 72.  2017-04-20 15:09:44 +0000     3319 bytes  lib/renderers/TextRenderer.js</tspan>
-<tspan x="10" y="1226"> 73.  2017-04-20 15:09:44 +0000     1169 bytes  lib/renderers/TextRenderer.js.flow</tspan>
-<tspan x="10" y="1242"> 74.  2017-04-20 15:09:44 +0000    10427 bytes  lib/renderers/ViewRenderer.js</tspan>
-<tspan x="10" y="1258"> 75.  2017-04-20 15:09:44 +0000     6532 bytes  lib/renderers/ViewRenderer.js.flow</tspan>
-<tspan x="10" y="1274"> 76.  2017-04-20 15:09:44 +0000      249 bytes  lib/renderers/index.js</tspan>
-<tspan x="10" y="1290"> 77.  2017-04-20 15:09:44 +0000      330 bytes  lib/renderers/index.js.flow</tspan>
-<tspan x="10" y="1306"> 78.  2017-04-20 15:09:44 +0000     2691 bytes  lib/sharedStyles/TextStyles.js</tspan>
-<tspan x="10" y="1322"> 79.  2017-04-20 15:09:44 +0000     2574 bytes  lib/sharedStyles/TextStyles.js.flow</tspan>
-<tspan x="10" y="1338"> 80.  2017-04-20 15:09:44 +0000     2817 bytes  lib/stylesheet/expandStyle.js</tspan>
-<tspan x="10" y="1354"> 81.  2017-04-20 15:09:44 +0000     2791 bytes  lib/stylesheet/expandStyle.js.flow</tspan>
-<tspan x="10" y="1370"> 82.  2017-04-20 15:09:44 +0000     3297 bytes  lib/stylesheet/index.js</tspan>
-<tspan x="10" y="1386"> 83.  2017-04-20 15:09:44 +0000     2887 bytes  lib/stylesheet/index.js.flow</tspan>
-<tspan x="10" y="1402"> 84.  2017-04-20 15:09:44 +0000       13 bytes  lib/types.js</tspan>
-<tspan x="10" y="1418"> 85.  2017-04-20 15:09:44 +0000     3851 bytes  lib/types.js.flow</tspan>
-<tspan x="10" y="1434"> 86.  2017-04-20 15:09:44 +0000     1784 bytes  lib/utils/Context.js</tspan>
-<tspan x="10" y="1450"> 87.  2017-04-20 15:09:44 +0000      451 bytes  lib/utils/Context.js.flow</tspan>
-<tspan x="10" y="1466"> 88.  2017-04-20 15:09:44 +0000      319 bytes  lib/utils/constants.js</tspan>
-<tspan x="10" y="1482"> 89.  2017-04-20 15:09:44 +0000      224 bytes  lib/utils/constants.js.flow</tspan>
-<tspan x="10" y="1498"> 90.  2017-04-20 15:09:44 +0000     1748 bytes  lib/utils/createStringMeasurer.js</tspan>
-<tspan x="10" y="1514"> 91.  2017-04-20 15:09:44 +0000     1521 bytes  lib/utils/createStringMeasurer.js.flow</tspan>
-<tspan x="10" y="1530"> 92.  2017-04-20 15:09:44 +0000     5828 bytes  lib/utils/findFont.js</tspan>
-<tspan x="10" y="1546"> 93.  2017-04-20 15:09:44 +0000     5656 bytes  lib/utils/findFont.js.flow</tspan>
-<tspan x="10" y="1562"> 94.  2017-04-20 15:09:44 +0000      251 bytes  lib/utils/hasAnyDefined.js</tspan>
-<tspan x="10" y="1578"> 95.  2017-04-20 15:09:44 +0000      112 bytes  lib/utils/hasAnyDefined.js.flow</tspan>
-<tspan x="10" y="1594"> 96.  2017-04-20 15:09:44 +0000      551 bytes  lib/utils/hashStyle.js</tspan>
-<tspan x="10" y="1610"> 97.  2017-04-20 15:09:44 +0000      215 bytes  lib/utils/hashStyle.js.flow</tspan>
-<tspan x="10" y="1626"> 98.  2017-04-20 15:09:44 +0000      362 bytes  lib/utils/pick.js</tspan>
-<tspan x="10" y="1642"> 99.  2017-04-20 15:09:44 +0000      276 bytes  lib/utils/pick.js.flow</tspan>
-<tspan x="10" y="1658">100.  2017-04-20 15:09:44 +0000      186 bytes  lib/utils/same.js</tspan>
-<tspan x="10" y="1674">101.  2017-04-20 15:09:44 +0000       82 bytes  lib/utils/same.js.flow</tspan>
-<tspan x="10" y="1690">102.  2017-04-20 15:09:44 +0000      798 bytes  lib/utils/sortObjectKeys.js</tspan>
-<tspan x="10" y="1706">103.  2017-04-20 15:09:44 +0000      210 bytes  lib/utils/sortObjectKeys.js.flow</tspan>
-<tspan x="10" y="1722">104.  2017-04-20 15:09:44 +0000     2390 bytes  lib/wrappers/sharedTextStyles.js</tspan>
-<tspan x="10" y="1738">105.  2017-04-20 15:09:44 +0000     1300 bytes  lib/wrappers/sharedTextStyles.js.flow</tspan>
-<tspan x="10" y="1754">106.  2017-04-20 15:09:44 +0000     3246 bytes  package.json</tspan>
+<tspan x="10" y="266"> 13.  2017-04-20 15:10:49 +0000      292 bytes  __tests__/components/__snapshots__/Text.js.snap</tspan>
+<tspan x="10" y="282"> 14.  2017-04-20 15:10:49 +0000      292 bytes  __tests__/components/__snapshots__/View.js.snap</tspan>
+<tspan x="10" y="298"> 15.  2017-04-20 15:10:49 +0000     1090 bytes  __tests__/index.js</tspan>
+<tspan x="10" y="314"> 16.  2017-04-20 15:10:49 +0000      428 bytes  __tests__/jsonUtils/hacksForJSONImpl.js</tspan>
+<tspan x="10" y="330"> 17.  2017-04-20 15:10:49 +0000      401 bytes  __tests__/jsonUtils/layerGroup.js</tspan>
+<tspan x="10" y="346"> 18.  2017-04-20 15:10:49 +0000     2674 bytes  __tests__/jsonUtils/models.js</tspan>
+<tspan x="10" y="362"> 19.  2017-04-20 15:10:49 +0000     1715 bytes  __tests__/jsonUtils/shapeLayers.js</tspan>
+<tspan x="10" y="378"> 20.  2017-04-20 15:10:49 +0000     1505 bytes  __tests__/jsonUtils/style.js</tspan>
+<tspan x="10" y="394"> 21.  2017-04-20 15:10:49 +0000       28 bytes  __tests__/jsonUtils/textLayers.js</tspan>
+<tspan x="10" y="410"> 22.  2017-04-20 15:10:49 +0000     5129 bytes  __tests__/sharedStyles/TextStyles.js</tspan>
+<tspan x="10" y="426"> 23.  2017-04-20 15:10:49 +0000      297 bytes  __tests__/utils/sortObjectKeys.js</tspan>
+<tspan x="10" y="442"> 24.  2017-04-20 15:10:49 +0000      439 bytes  book.json</tspan>
+<tspan x="10" y="458"> 25.  2017-04-20 15:10:49 +0000      214 bytes  circle.yml</tspan>
+<tspan x="10" y="474"> 26.  2017-04-20 15:10:49 +0000      352 bytes  flow-typed/fbjs.js</tspan>
+<tspan x="10" y="490"> 27.  2017-04-20 15:10:49 +0000     1820 bytes  flow-typed/sketch.js</tspan>
+<tspan x="10" y="506"> 28.  2017-04-20 15:10:49 +0000      218 bytes  lib/Platform.js</tspan>
+<tspan x="10" y="522"> 29.  2017-04-20 15:10:49 +0000      117 bytes  lib/Platform.js.flow</tspan>
+<tspan x="10" y="538"> 30.  2017-04-20 15:10:49 +0000     2937 bytes  lib/buildTree.js</tspan>
+<tspan x="10" y="554"> 31.  2017-04-20 15:10:49 +0000     2036 bytes  lib/buildTree.js.flow</tspan>
+<tspan x="10" y="570"> 32.  2017-04-20 15:10:49 +0000     3087 bytes  lib/components/Artboard.js</tspan>
+<tspan x="10" y="586"> 33.  2017-04-20 15:10:49 +0000      672 bytes  lib/components/Artboard.js.flow</tspan>
+<tspan x="10" y="602"> 34.  2017-04-20 15:10:49 +0000     4439 bytes  lib/components/Image.js</tspan>
+<tspan x="10" y="618"> 35.  2017-04-20 15:10:49 +0000     2083 bytes  lib/components/Image.js.flow</tspan>
+<tspan x="10" y="634"> 36.  2017-04-20 15:10:49 +0000     4356 bytes  lib/components/RedBox.js</tspan>
+<tspan x="10" y="650"> 37.  2017-04-20 15:10:49 +0000     2076 bytes  lib/components/RedBox.js.flow</tspan>
+<tspan x="10" y="666"> 38.  2017-04-20 15:10:49 +0000     3283 bytes  lib/components/Text.js</tspan>
+<tspan x="10" y="682"> 39.  2017-04-20 15:10:49 +0000      814 bytes  lib/components/Text.js.flow</tspan>
+<tspan x="10" y="698"> 40.  2017-04-20 15:10:49 +0000       35 bytes  lib/components/TextStylePropTypes.js</tspan>
+<tspan x="10" y="714"> 41.  2017-04-20 15:10:49 +0000       21 bytes  lib/components/TextStylePropTypes.js.flow</tspan>
+<tspan x="10" y="730"> 42.  2017-04-20 15:10:49 +0000     3035 bytes  lib/components/View.js</tspan>
+<tspan x="10" y="746"> 43.  2017-04-20 15:10:49 +0000      648 bytes  lib/components/View.js.flow</tspan>
+<tspan x="10" y="762"> 44.  2017-04-20 15:10:49 +0000       35 bytes  lib/components/ViewStylePropTypes.js</tspan>
+<tspan x="10" y="778"> 45.  2017-04-20 15:10:49 +0000       21 bytes  lib/components/ViewStylePropTypes.js.flow</tspan>
+<tspan x="10" y="794"> 46.  2017-04-20 15:10:49 +0000     1400 bytes  lib/debug.js</tspan>
+<tspan x="10" y="810"> 47.  2017-04-20 15:10:49 +0000     1318 bytes  lib/debug.js.flow</tspan>
+<tspan x="10" y="826"> 48.  2017-04-20 15:10:49 +0000     1708 bytes  lib/flexToSketchJSON.js</tspan>
+<tspan x="10" y="842"> 49.  2017-04-20 15:10:49 +0000      815 bytes  lib/flexToSketchJSON.js.flow</tspan>
+<tspan x="10" y="858"> 50.  2017-04-20 15:10:49 +0000     1246 bytes  lib/index.js</tspan>
+<tspan x="10" y="874"> 51.  2017-04-20 15:10:49 +0000      527 bytes  lib/index.js.flow</tspan>
+<tspan x="10" y="890"> 52.  2017-04-20 15:10:49 +0000     4105 bytes  lib/jsonUtils/hacksForJSONImpl.js</tspan>
+<tspan x="10" y="906"> 53.  2017-04-20 15:10:49 +0000     3656 bytes  lib/jsonUtils/hacksForJSONImpl.js.flow</tspan>
+<tspan x="10" y="922"> 54.  2017-04-20 15:10:49 +0000      918 bytes  lib/jsonUtils/layerGroup.js</tspan>
+<tspan x="10" y="938"> 55.  2017-04-20 15:10:49 +0000      787 bytes  lib/jsonUtils/layerGroup.js.flow</tspan>
+<tspan x="10" y="954"> 56.  2017-04-20 15:10:49 +0000     2819 bytes  lib/jsonUtils/models.js</tspan>
+<tspan x="10" y="970"> 57.  2017-04-20 15:10:49 +0000     2196 bytes  lib/jsonUtils/models.js.flow</tspan>
+<tspan x="10" y="986"> 58.  2017-04-20 15:10:49 +0000     5298 bytes  lib/jsonUtils/shapeLayers.js</tspan>
+<tspan x="10" y="1002"> 59.  2017-04-20 15:10:49 +0000     3932 bytes  lib/jsonUtils/shapeLayers.js.flow</tspan>
+<tspan x="10" y="1018"> 60.  2017-04-20 15:10:49 +0000     3061 bytes  lib/jsonUtils/style.js</tspan>
+<tspan x="10" y="1034"> 61.  2017-04-20 15:10:49 +0000     2823 bytes  lib/jsonUtils/style.js.flow</tspan>
+<tspan x="10" y="1050"> 62.  2017-04-20 15:10:49 +0000     1103 bytes  lib/jsonUtils/textLayers.js</tspan>
+<tspan x="10" y="1066"> 63.  2017-04-20 15:10:49 +0000      981 bytes  lib/jsonUtils/textLayers.js.flow</tspan>
+<tspan x="10" y="1082"> 64.  2017-04-20 15:10:49 +0000     1897 bytes  lib/render.js</tspan>
+<tspan x="10" y="1098"> 65.  2017-04-20 15:10:49 +0000     1283 bytes  lib/render.js.flow</tspan>
+<tspan x="10" y="1114"> 66.  2017-04-20 15:10:49 +0000     3006 bytes  lib/renderers/ArtboardRenderer.js</tspan>
+<tspan x="10" y="1130"> 67.  2017-04-20 15:10:49 +0000     1110 bytes  lib/renderers/ArtboardRenderer.js.flow</tspan>
+<tspan x="10" y="1146"> 68.  2017-04-20 15:10:49 +0000    10243 bytes  lib/renderers/ImageRenderer.js</tspan>
+<tspan x="10" y="1162"> 69.  2017-04-20 15:10:49 +0000     6428 bytes  lib/renderers/ImageRenderer.js.flow</tspan>
+<tspan x="10" y="1178"> 70.  2017-04-20 15:10:49 +0000     2558 bytes  lib/renderers/SketchRenderer.js</tspan>
+<tspan x="10" y="1194"> 71.  2017-04-20 15:10:49 +0000     1292 bytes  lib/renderers/SketchRenderer.js.flow</tspan>
+<tspan x="10" y="1210"> 72.  2017-04-20 15:10:49 +0000     3319 bytes  lib/renderers/TextRenderer.js</tspan>
+<tspan x="10" y="1226"> 73.  2017-04-20 15:10:49 +0000     1169 bytes  lib/renderers/TextRenderer.js.flow</tspan>
+<tspan x="10" y="1242"> 74.  2017-04-20 15:10:49 +0000    10427 bytes  lib/renderers/ViewRenderer.js</tspan>
+<tspan x="10" y="1258"> 75.  2017-04-20 15:10:49 +0000     6532 bytes  lib/renderers/ViewRenderer.js.flow</tspan>
+<tspan x="10" y="1274"> 76.  2017-04-20 15:10:49 +0000      249 bytes  lib/renderers/index.js</tspan>
+<tspan x="10" y="1290"> 77.  2017-04-20 15:10:49 +0000      330 bytes  lib/renderers/index.js.flow</tspan>
+<tspan x="10" y="1306"> 78.  2017-04-20 15:10:49 +0000     2691 bytes  lib/sharedStyles/TextStyles.js</tspan>
+<tspan x="10" y="1322"> 79.  2017-04-20 15:10:49 +0000     2574 bytes  lib/sharedStyles/TextStyles.js.flow</tspan>
+<tspan x="10" y="1338"> 80.  2017-04-20 15:10:49 +0000     2817 bytes  lib/stylesheet/expandStyle.js</tspan>
+<tspan x="10" y="1354"> 81.  2017-04-20 15:10:49 +0000     2791 bytes  lib/stylesheet/expandStyle.js.flow</tspan>
+<tspan x="10" y="1370"> 82.  2017-04-20 15:10:49 +0000     3297 bytes  lib/stylesheet/index.js</tspan>
+<tspan x="10" y="1386"> 83.  2017-04-20 15:10:49 +0000     2887 bytes  lib/stylesheet/index.js.flow</tspan>
+<tspan x="10" y="1402"> 84.  2017-04-20 15:10:49 +0000       13 bytes  lib/types.js</tspan>
+<tspan x="10" y="1418"> 85.  2017-04-20 15:10:49 +0000     3851 bytes  lib/types.js.flow</tspan>
+<tspan x="10" y="1434"> 86.  2017-04-20 15:10:49 +0000     1784 bytes  lib/utils/Context.js</tspan>
+<tspan x="10" y="1450"> 87.  2017-04-20 15:10:49 +0000      451 bytes  lib/utils/Context.js.flow</tspan>
+<tspan x="10" y="1466"> 88.  2017-04-20 15:10:49 +0000      319 bytes  lib/utils/constants.js</tspan>
+<tspan x="10" y="1482"> 89.  2017-04-20 15:10:49 +0000      224 bytes  lib/utils/constants.js.flow</tspan>
+<tspan x="10" y="1498"> 90.  2017-04-20 15:10:49 +0000     1748 bytes  lib/utils/createStringMeasurer.js</tspan>
+<tspan x="10" y="1514"> 91.  2017-04-20 15:10:49 +0000     1521 bytes  lib/utils/createStringMeasurer.js.flow</tspan>
+<tspan x="10" y="1530"> 92.  2017-04-20 15:10:49 +0000     5828 bytes  lib/utils/findFont.js</tspan>
+<tspan x="10" y="1546"> 93.  2017-04-20 15:10:49 +0000     5656 bytes  lib/utils/findFont.js.flow</tspan>
+<tspan x="10" y="1562"> 94.  2017-04-20 15:10:49 +0000      251 bytes  lib/utils/hasAnyDefined.js</tspan>
+<tspan x="10" y="1578"> 95.  2017-04-20 15:10:49 +0000      112 bytes  lib/utils/hasAnyDefined.js.flow</tspan>
+<tspan x="10" y="1594"> 96.  2017-04-20 15:10:49 +0000      551 bytes  lib/utils/hashStyle.js</tspan>
+<tspan x="10" y="1610"> 97.  2017-04-20 15:10:49 +0000      215 bytes  lib/utils/hashStyle.js.flow</tspan>
+<tspan x="10" y="1626"> 98.  2017-04-20 15:10:49 +0000      362 bytes  lib/utils/pick.js</tspan>
+<tspan x="10" y="1642"> 99.  2017-04-20 15:10:49 +0000      276 bytes  lib/utils/pick.js.flow</tspan>
+<tspan x="10" y="1658">100.  2017-04-20 15:10:49 +0000      186 bytes  lib/utils/same.js</tspan>
+<tspan x="10" y="1674">101.  2017-04-20 15:10:49 +0000       82 bytes  lib/utils/same.js.flow</tspan>
+<tspan x="10" y="1690">102.  2017-04-20 15:10:49 +0000      798 bytes  lib/utils/sortObjectKeys.js</tspan>
+<tspan x="10" y="1706">103.  2017-04-20 15:10:49 +0000      210 bytes  lib/utils/sortObjectKeys.js.flow</tspan>
+<tspan x="10" y="1722">104.  2017-04-20 15:10:49 +0000     2390 bytes  lib/wrappers/sharedTextStyles.js</tspan>
+<tspan x="10" y="1738">105.  2017-04-20 15:10:49 +0000     1300 bytes  lib/wrappers/sharedTextStyles.js.flow</tspan>
+<tspan x="10" y="1754">106.  2017-04-20 15:10:49 +0000     3246 bytes  package.json</tspan>
 <tspan x="10" y="1770">ls: cannot access scratch/PR: No such file or directory</tspan>
 <tspan x="10" y="1786">ls: cannot access commments/92: No such file or directory</tspan>
 <tspan x="10" y="1802">ls: cannot access -: No such file or directory</tspan>
 <tspan x="10" y="1818">ls: cannot access documentation/brownifed.md: No such file or directory</tspan>
-<tspan x="10" y="1834">107.  2017-04-20 15:09:44 +0000     3246 bytes  scratch/PR commments/92 - documentation/brownife\</tspan>
+<tspan x="10" y="1834">107.  2017-04-20 15:10:49 +0000     3246 bytes  scratch/PR commments/92 - documentation/brownife\</tspan>
 <tspan x="10" y="1850">d.md</tspan>
-<tspan x="10" y="1866">108.  2017-04-20 15:09:44 +0000      182 bytes  scratch/TODO.md</tspan>
-<tspan x="10" y="1882">109.  2017-04-20 15:09:44 +0000      117 bytes  src/Platform.js</tspan>
-<tspan x="10" y="1898">110.  2017-04-20 15:09:44 +0000     2036 bytes  src/buildTree.js</tspan>
-<tspan x="10" y="1914">111.  2017-04-20 15:09:44 +0000      672 bytes  src/components/Artboard.js</tspan>
-<tspan x="10" y="1930">112.  2017-04-20 15:09:44 +0000     2083 bytes  src/components/Image.js</tspan>
-<tspan x="10" y="1946">113.  2017-04-20 15:09:44 +0000     2076 bytes  src/components/RedBox.js</tspan>
-<tspan x="10" y="1962">114.  2017-04-20 15:09:44 +0000      814 bytes  src/components/Text.js</tspan>
-<tspan x="10" y="1978">115.  2017-04-20 15:09:44 +0000       21 bytes  src/components/TextStylePropTypes.js</tspan>
-<tspan x="10" y="1994">116.  2017-04-20 15:09:44 +0000      648 bytes  src/components/View.js</tspan>
-<tspan x="10" y="2010">117.  2017-04-20 15:09:44 +0000       21 bytes  src/components/ViewStylePropTypes.js</tspan>
-<tspan x="10" y="2026">118.  2017-04-20 15:09:44 +0000     1318 bytes  src/debug.js</tspan>
-<tspan x="10" y="2042">119.  2017-04-20 15:09:44 +0000      815 bytes  src/flexToSketchJSON.js</tspan>
-<tspan x="10" y="2058">120.  2017-04-20 15:09:44 +0000      527 bytes  src/index.js</tspan>
-<tspan x="10" y="2074">121.  2017-04-20 15:09:44 +0000     3656 bytes  src/jsonUtils/hacksForJSONImpl.js</tspan>
-<tspan x="10" y="2090">122.  2017-04-20 15:09:44 +0000      787 bytes  src/jsonUtils/layerGroup.js</tspan>
-<tspan x="10" y="2106">123.  2017-04-20 15:09:44 +0000     2196 bytes  src/jsonUtils/models.js</tspan>
-<tspan x="10" y="2122">124.  2017-04-20 15:09:44 +0000     3932 bytes  src/jsonUtils/shapeLayers.js</tspan>
-<tspan x="10" y="2138">125.  2017-04-20 15:09:44 +0000     2823 bytes  src/jsonUtils/style.js</tspan>
-<tspan x="10" y="2154">126.  2017-04-20 15:09:44 +0000      981 bytes  src/jsonUtils/textLayers.js</tspan>
-<tspan x="10" y="2170">127.  2017-04-20 15:09:44 +0000     1283 bytes  src/render.js</tspan>
-<tspan x="10" y="2186">128.  2017-04-20 15:09:44 +0000     1110 bytes  src/renderers/ArtboardRenderer.js</tspan>
-<tspan x="10" y="2202">129.  2017-04-20 15:09:44 +0000     6428 bytes  src/renderers/ImageRenderer.js</tspan>
-<tspan x="10" y="2218">130.  2017-04-20 15:09:44 +0000     1292 bytes  src/renderers/SketchRenderer.js</tspan>
-<tspan x="10" y="2234">131.  2017-04-20 15:09:44 +0000     1169 bytes  src/renderers/TextRenderer.js</tspan>
-<tspan x="10" y="2250">132.  2017-04-20 15:09:44 +0000     6532 bytes  src/renderers/ViewRenderer.js</tspan>
-<tspan x="10" y="2266">133.  2017-04-20 15:09:44 +0000      330 bytes  src/renderers/index.js</tspan>
-<tspan x="10" y="2282">134.  2017-04-20 15:09:44 +0000     2574 bytes  src/sharedStyles/TextStyles.js</tspan>
-<tspan x="10" y="2298">135.  2017-04-20 15:09:44 +0000     2791 bytes  src/stylesheet/expandStyle.js</tspan>
-<tspan x="10" y="2314">136.  2017-04-20 15:09:44 +0000     2887 bytes  src/stylesheet/index.js</tspan>
-<tspan x="10" y="2330">137.  2017-04-20 15:09:44 +0000     3851 bytes  src/types.js</tspan>
-<tspan x="10" y="2346">138.  2017-04-20 15:09:44 +0000      451 bytes  src/utils/Context.js</tspan>
-<tspan x="10" y="2362">139.  2017-04-20 15:09:44 +0000      224 bytes  src/utils/constants.js</tspan>
-<tspan x="10" y="2378">140.  2017-04-20 15:09:44 +0000     1521 bytes  src/utils/createStringMeasurer.js</tspan>
-<tspan x="10" y="2394">141.  2017-04-20 15:09:44 +0000     5656 bytes  src/utils/findFont.js</tspan>
-<tspan x="10" y="2410">142.  2017-04-20 15:09:44 +0000      112 bytes  src/utils/hasAnyDefined.js</tspan>
-<tspan x="10" y="2426">143.  2017-04-20 15:09:44 +0000      215 bytes  src/utils/hashStyle.js</tspan>
-<tspan x="10" y="2442">144.  2017-04-20 15:09:44 +0000      276 bytes  src/utils/pick.js</tspan>
-<tspan x="10" y="2458">145.  2017-04-20 15:09:44 +0000       82 bytes  src/utils/same.js</tspan>
-<tspan x="10" y="2474">146.  2017-04-20 15:09:44 +0000      210 bytes  src/utils/sortObjectKeys.js</tspan>
-<tspan x="10" y="2490">147.  2017-04-20 15:09:44 +0000     1300 bytes  src/wrappers/sharedTextStyles.js</tspan>
-<tspan x="10" y="2506">148.  2017-04-20 15:09:44 +0000      106 bytes  symlink-plugin.sh</tspan>
-<tspan x="10" y="2522">149.  2017-04-20 15:09:44 +0000   181968 bytes  yarn.lock</tspan>
+<tspan x="10" y="1866">108.  2017-04-20 15:10:49 +0000      182 bytes  scratch/TODO.md</tspan>
+<tspan x="10" y="1882">109.  2017-04-20 15:10:49 +0000      117 bytes  src/Platform.js</tspan>
+<tspan x="10" y="1898">110.  2017-04-20 15:10:49 +0000     2036 bytes  src/buildTree.js</tspan>
+<tspan x="10" y="1914">111.  2017-04-20 15:10:49 +0000      672 bytes  src/components/Artboard.js</tspan>
+<tspan x="10" y="1930">112.  2017-04-20 15:10:49 +0000     2083 bytes  src/components/Image.js</tspan>
+<tspan x="10" y="1946">113.  2017-04-20 15:10:49 +0000     2076 bytes  src/components/RedBox.js</tspan>
+<tspan x="10" y="1962">114.  2017-04-20 15:10:49 +0000      814 bytes  src/components/Text.js</tspan>
+<tspan x="10" y="1978">115.  2017-04-20 15:10:49 +0000       21 bytes  src/components/TextStylePropTypes.js</tspan>
+<tspan x="10" y="1994">116.  2017-04-20 15:10:49 +0000      648 bytes  src/components/View.js</tspan>
+<tspan x="10" y="2010">117.  2017-04-20 15:10:49 +0000       21 bytes  src/components/ViewStylePropTypes.js</tspan>
+<tspan x="10" y="2026">118.  2017-04-20 15:10:49 +0000     1318 bytes  src/debug.js</tspan>
+<tspan x="10" y="2042">119.  2017-04-20 15:10:49 +0000      815 bytes  src/flexToSketchJSON.js</tspan>
+<tspan x="10" y="2058">120.  2017-04-20 15:10:49 +0000      527 bytes  src/index.js</tspan>
+<tspan x="10" y="2074">121.  2017-04-20 15:10:49 +0000     3656 bytes  src/jsonUtils/hacksForJSONImpl.js</tspan>
+<tspan x="10" y="2090">122.  2017-04-20 15:10:49 +0000      787 bytes  src/jsonUtils/layerGroup.js</tspan>
+<tspan x="10" y="2106">123.  2017-04-20 15:10:49 +0000     2196 bytes  src/jsonUtils/models.js</tspan>
+<tspan x="10" y="2122">124.  2017-04-20 15:10:49 +0000     3932 bytes  src/jsonUtils/shapeLayers.js</tspan>
+<tspan x="10" y="2138">125.  2017-04-20 15:10:49 +0000     2823 bytes  src/jsonUtils/style.js</tspan>
+<tspan x="10" y="2154">126.  2017-04-20 15:10:49 +0000      981 bytes  src/jsonUtils/textLayers.js</tspan>
+<tspan x="10" y="2170">127.  2017-04-20 15:10:49 +0000     1283 bytes  src/render.js</tspan>
+<tspan x="10" y="2186">128.  2017-04-20 15:10:49 +0000     1110 bytes  src/renderers/ArtboardRenderer.js</tspan>
+<tspan x="10" y="2202">129.  2017-04-20 15:10:49 +0000     6428 bytes  src/renderers/ImageRenderer.js</tspan>
+<tspan x="10" y="2218">130.  2017-04-20 15:10:49 +0000     1292 bytes  src/renderers/SketchRenderer.js</tspan>
+<tspan x="10" y="2234">131.  2017-04-20 15:10:49 +0000     1169 bytes  src/renderers/TextRenderer.js</tspan>
+<tspan x="10" y="2250">132.  2017-04-20 15:10:49 +0000     6532 bytes  src/renderers/ViewRenderer.js</tspan>
+<tspan x="10" y="2266">133.  2017-04-20 15:10:49 +0000      330 bytes  src/renderers/index.js</tspan>
+<tspan x="10" y="2282">134.  2017-04-20 15:10:49 +0000     2574 bytes  src/sharedStyles/TextStyles.js</tspan>
+<tspan x="10" y="2298">135.  2017-04-20 15:10:49 +0000     2791 bytes  src/stylesheet/expandStyle.js</tspan>
+<tspan x="10" y="2314">136.  2017-04-20 15:10:49 +0000     2887 bytes  src/stylesheet/index.js</tspan>
+<tspan x="10" y="2330">137.  2017-04-20 15:10:49 +0000     3851 bytes  src/types.js</tspan>
+<tspan x="10" y="2346">138.  2017-04-20 15:10:49 +0000      451 bytes  src/utils/Context.js</tspan>
+<tspan x="10" y="2362">139.  2017-04-20 15:10:49 +0000      224 bytes  src/utils/constants.js</tspan>
+<tspan x="10" y="2378">140.  2017-04-20 15:10:49 +0000     1521 bytes  src/utils/createStringMeasurer.js</tspan>
+<tspan x="10" y="2394">141.  2017-04-20 15:10:49 +0000     5656 bytes  src/utils/findFont.js</tspan>
+<tspan x="10" y="2410">142.  2017-04-20 15:10:49 +0000      112 bytes  src/utils/hasAnyDefined.js</tspan>
+<tspan x="10" y="2426">143.  2017-04-20 15:10:49 +0000      215 bytes  src/utils/hashStyle.js</tspan>
+<tspan x="10" y="2442">144.  2017-04-20 15:10:49 +0000      276 bytes  src/utils/pick.js</tspan>
+<tspan x="10" y="2458">145.  2017-04-20 15:10:49 +0000       82 bytes  src/utils/same.js</tspan>
+<tspan x="10" y="2474">146.  2017-04-20 15:10:49 +0000      210 bytes  src/utils/sortObjectKeys.js</tspan>
+<tspan x="10" y="2490">147.  2017-04-20 15:10:49 +0000     1300 bytes  src/wrappers/sharedTextStyles.js</tspan>
+<tspan x="10" y="2506">148.  2017-04-20 15:10:49 +0000      106 bytes  symlink-plugin.sh</tspan>
+<tspan x="10" y="2522">149.  2017-04-20 15:10:49 +0000   181968 bytes  yarn.lock</tspan>
 </text>
 </svg>
