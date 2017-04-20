@@ -1,1 +1,39 @@
-{     "devDependencies": {         "electron-lite": "kaizhu256/node-electron-lite#alpha",         "utility2": "kaizhu256/node-utility2#alpha"     },     "name":"npmtest-react-sketchapp",     "homepage": "https://github.com/npmtest/node-npmtest-react-sketchapp",     "repository": {         "type": "git",         "url": "https://github.com/npmtest/node-npmtest-react-sketchapp.git"     },     "scripts": {         "build-ci": "utility2 shReadmeTest build_ci.sh"     },     "version": "0.0.1" }
+{
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "description": "#### basic test coverage for  [react-sketchapp (v0.10.0)](https://github.com/airbnb/react-sketchapp)  [![npm package](https://img.shields.io/npm/v/npmtest-react-sketchapp.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-sketchapp) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-sketchapp.svg)](https://travis-ci.org/npmtest/node-npmtest-react-sketchapp)",
+    "devDependencies": {
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmtest/node-npmtest-react-sketchapp",
+    "keywords": [
+        "coverage",
+        "test",
+        "react-sketchapp"
+    ],
+    "license": "MIT",
+    "main": "lib.npmtest_react_sketchapp.js",
+    "name": "npmtest-react-sketchapp",
+    "nameAlias": "npmtest_react_sketchapp",
+    "nameOriginal": "npmtest-react-sketchapp",
+    "os": [
+        "darwin",
+        "linux"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmtest/node-npmtest-react-sketchapp.git"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "npm install \"kaizhu256/node-utility2#alpha\" && utility2 shDeployHeroku",
+        "postinstall": "[ ! -f npm_scripts.sh ] || ./npm_scripts.sh postinstall",
+        "start": "PORT=${PORT:-8080} utility2 start test.js",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
+    },
+    "version": "0.0.1"
+}
